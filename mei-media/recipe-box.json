@@ -1,5 +1,43 @@
 {
- "updated": "2026-10-09T11:25:33+02:00",
+ "offer": {
+  "buy_url": "https://payhip.com/buy?link=BzNb6",
+  "sales_url": "https://firecarrypress.com/recipes/#order",
+  "launch": {
+   "until": "2026-10-19T06:00:00Z",
+   "bar_title": "Grandma Mei's Kitchen · 100 recipes",
+   "bar_price": "$14.95 · launch price ends Sunday",
+   "button": "Buy now"
+  },
+  "regular": {
+   "bar_title": "Grandma Mei's Kitchen · 100 recipes",
+   "bar_price": "$19.90 · instant PDF",
+   "button": "Buy now"
+  },
+  "hero_title": "You're looking at {n} recipes. My cookbook has 100.",
+  "hero_points": [
+   "Every takeout favorite, plus congee, soups, dumplings, steamed fish and weeknight suppers",
+   "A photo for every recipe, most serve two, ready in about 30 minutes",
+   "Gentle cooking: no garlic, no onion bulbs, no chili",
+   "Free bonus: Mei's Tea Cabinet (25 teas). Add Grandma Mei's Sweets for just $4.99"
+  ],
+  "guarantee": "30-day money-back guarantee · instant PDF download · card or PayPal",
+  "interstitial": "Liked that one? There are 99 more in my book.",
+  "books": {
+   "Grandma Mei's Kitchen": {
+    "img": "/assets/img/thumb-main.webp",
+    "line": "This recipe is on page {page} of Grandma Mei's Kitchen, with 99 more family recipes."
+   },
+   "Grandma Mei's Sweets": {
+    "img": "/assets/img/thumb-sweets-2.webp",
+    "line": "This sweet is on page {page} of Grandma Mei's Sweets. Add the whole book for just $4.99 when you get Grandma Mei's Kitchen."
+   },
+   "Mei's Tea Cabinet": {
+    "img": "/assets/img/thumb-tea-2.webp",
+    "line": "This cup is on page {page} of Mei's Tea Cabinet. It comes free with Grandma Mei's Kitchen."
+   }
+  }
+ },
+ "updated": "2026-10-09T14:26:04+02:00",
  "recipes": [
   {
    "id": "K002",
@@ -28,6 +66,7 @@
    ],
    "tip": "Honey burns quickly. As soon as the glaze is thick enough to coat a spoon, take the pan off the heat.",
    "serves": "Serves 2",
+   "page": 11,
    "total": "30 min",
    "image": "https://raw.githubusercontent.com/meridian483/Misc./main/mei-media/mei-20261010-a/photos/p1-serve.jpg"
   },
@@ -59,6 +98,7 @@
    ],
    "tip": "Strain the custard twice and skim every bubble; that is the glossy, mirror-smooth top. If the custard starts to puff up in the oven, open the door a crack for a few seconds.",
    "serves": "Makes 12 tarts",
+   "page": 69,
    "total": "1 hr 35 min",
    "image": "https://raw.githubusercontent.com/meridian483/Misc./main/mei-media/mei-20261010-a/photos/p2-egg-tarts.jpg"
   },
@@ -82,6 +122,7 @@
    ],
    "tip": "Make a double batch in the morning and keep it in a thermos. It is just as good warm at four o’clock.",
    "serves": null,
+   "page": 15,
    "total": null,
    "image": "https://raw.githubusercontent.com/meridian483/Misc./main/mei-media/mei-20261010-a/photos/s2-goji-water.jpg"
   },
@@ -115,6 +156,7 @@
    ],
    "tip": "A non-stick pan is the safest choice the first time. In cast iron, make sure the pan is well seasoned and properly hot before the potstickers go in.",
    "serves": "Makes 24 potstickers",
+   "page": 14,
    "total": "1 hr 5 min",
    "image": "https://raw.githubusercontent.com/meridian483/Misc./main/mei-media/mei-20261010-b/photos/p1-flip.jpg"
   },
@@ -144,6 +186,7 @@
    ],
    "tip": "Congee thickens as it stands. If you reheat a portion, add a few spoonfuls of water and stir well; it will loosen again in a minute.",
    "serves": null,
+   "page": 25,
    "total": "50 min",
    "image": "https://raw.githubusercontent.com/meridian483/Misc./main/mei-media/mei-20261010-b/photos/p2-congee.jpg"
   },
@@ -169,6 +212,7 @@
    ],
    "tip": "Out of season, use thawed frozen mango or canned mango pulp from Asian grocers. Canned pulp is often sweetened, so start with the smaller amount of sugar and taste.",
    "serves": "Serves 4",
+   "page": 35,
    "total": "4 hr 20 min",
    "image": "https://raw.githubusercontent.com/meridian483/Misc./main/mei-media/mei-20261010-b/photos/p3-mango-pudding.jpg"
   }
