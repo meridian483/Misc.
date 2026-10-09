@@ -1,0 +1,176 @@
+{
+ "updated": "2026-10-09T11:21:39+02:00",
+ "recipes": [
+  {
+   "id": "K002",
+   "title": "Honey sesame chicken",
+   "book": "Grandma Mei's Kitchen",
+   "date": "2026-10-10",
+   "story": "My grandchildren ask for this one by name. Crisp golden chicken, a sticky honey glaze and a snowfall of sesame seeds. It is sweet, so I serve it with plenty of rice and a plate of plain green vegetables, and the bowls still come back empty.",
+   "ingredients": [
+    "300 g boneless, skinless chicken thighs, in 2.5 cm pieces",
+    "1 tsp light soy sauce and 1 egg white",
+    "4 tbsp cornstarch",
+    "3 tbsp neutral oil",
+    "For the glaze",
+    "3 tbsp honey and 2 tbsp light soy sauce",
+    "1 tbsp rice vinegar and 1 tsp grated fresh ginger",
+    "1 tsp cornstarch mixed with 3 tbsp water",
+    "1 tbsp toasted sesame seeds",
+    "1 scallion, green part only, finely sliced",
+    "250 g broccoli or bok choy, steamed, to serve"
+   ],
+   "steps": [
+    "Mix the chicken with the soy sauce and egg white, then toss in the cornstarch to coat. Stir the glaze ingredients together.",
+    "Heat the oil in the pan over medium-high heat and fry the chicken in one layer, 3 to 4 minutes a side, until deep golden and cooked through (74 °C / 165 °F). Pour off all but a thin film of oil.",
+    "Lower the heat to medium, stir the glaze and pour it in. Let it bubble for about 1 minute, turning the chicken, until the sauce is thick, sticky and glossy.",
+    "Scatter with sesame seeds and scallion greens and serve with rice and the steamed greens."
+   ],
+   "tip": "Honey burns quickly. As soon as the glaze is thick enough to coat a spoon, take the pan off the heat.",
+   "serves": "Serves 2",
+   "total": "30 min",
+   "image": "https://raw.githubusercontent.com/meridian483/Misc./main/mei-media/mei-20261010-a/photos/p1-serve.jpg"
+  },
+  {
+   "id": "S057",
+   "title": "Hong Kong egg tarts",
+   "book": "Grandma Mei's Sweets",
+   "date": "2026-10-10",
+   "story": "When we visited my husband’s cousin in Hong Kong, she sent him downstairs for egg tarts before we had put down our bags. The good bakeries bake them every hour. This is the crumbly cookie-crust kind, which is easier at home than puff pastry and, quietly, my favorite.",
+   "ingredients": [
+    "For the pastry",
+    "100 g unsalted butter, softened (7 tbsp)",
+    "40 g powdered (icing) sugar (⅓ US cup)",
+    "1 large egg, beaten: use half (25 g, about 1½ tbsp) here and save the rest",
+    "150 g all-purpose flour (1¼ US cups) and a pinch of salt",
+    "For the custard",
+    "70 g sugar (⅓ US cup)",
+    "120 ml water (½ US cup), half of it boiling, half cold",
+    "2 large eggs (about 100 g), plus the saved half egg",
+    "60 ml evaporated milk (¼ US cup)"
+   ],
+   "steps": [
+    "Beat the butter and powdered sugar until pale and creamy. Beat in the 25 g of egg, then stir in the flour and salt until just combined. Wrap and refrigerate 30 minutes.",
+    "Divide the dough into 12 balls. Press each into a tart tin with your thumbs, about 3 mm thick and a little above the rim. Refrigerate the shells while you make the custard.",
+    "Heat the oven to 200 °C / 400 °F (fan 180 °C) with a baking sheet on the lower shelf. Dissolve the sugar in the boiling water, then stir in the cold water.",
+    "Whisk the eggs and the saved egg gently, without making froth. Stir in the syrup and evaporated milk, strain twice through a fine sieve and skim off any bubbles.",
+    "Fill the shells nine-tenths full and set them on the hot sheet. Bake 12 minutes, then lower to 180 °C / 350 °F (fan 160 °C) and bake 8 to 12 minutes more, until the pastry is golden and the custard just set with a slight wobble.",
+    "Cool 10 minutes in the tins, then ease the tarts out. Serve warm."
+   ],
+   "tip": "Strain the custard twice and skim every bubble; that is the glossy, mirror-smooth top. If the custard starts to puff up in the oven, open the door a crack for a few seconds.",
+   "serves": "Makes 12 tarts",
+   "total": "1 hr 35 min",
+   "image": "https://raw.githubusercontent.com/meridian483/Misc./main/mei-media/mei-20261010-a/photos/p2-egg-tarts.jpg"
+  },
+  {
+   "id": "T02",
+   "title": "Goji & red date water",
+   "book": "Mei's Tea Cabinet",
+   "date": "2026-10-10",
+   "story": "",
+   "ingredients": [
+    "4 dried red dates (jujubes)",
+    "1 tbsp dried goji berries, about",
+    "8g",
+    "500 ml (2 cups) water"
+   ],
+   "steps": [
+    "Rinse the dates and goji in a sieve. Tear or cut each date open so its sweetness can come out; leave the stone in or take it out.",
+    "Put the dates and water in a small pan, cover and simmer for 15 minutes.",
+    "Add the goji for the last 3 minutes. They swell and turn soft.",
+    "Pour into cups with the fruit. At the end, eat the dates and goji with a spoon."
+   ],
+   "tip": "Make a double batch in the morning and keep it in a thermos. It is just as good warm at four o’clock.",
+   "serves": null,
+   "total": null,
+   "image": "https://raw.githubusercontent.com/meridian483/Misc./main/mei-media/mei-20261010-a/photos/s2-goji-water.jpg"
+  },
+  {
+   "id": "K005",
+   "title": "Crispy pan-fried potstickers",
+   "book": "Grandma Mei's Kitchen",
+   "date": "2026-10-10",
+   "story": "Makes 24 potstickers Active 50 min Total 1 hr 5 min In Tianjin the potsticker stalls opened at dawn, and you heard the sizzle before you smelled the pork. The trick is a spoonful of flour in the steaming water. It cooks into a thin, lacy skirt that joins every dumpling together. Turning it out is the fun part. Be brave.",
+   "ingredients": [
+    "150 g napa cabbage (Chinese leaf), finely chopped",
+    "¾ tsp salt, divided",
+    "250 g ground pork (9 oz), not extra-lean",
+    "10 g fresh ginger, finely grated",
+    "1 tbsp light soy sauce and a pinch of ground white pepper",
+    "2 tbsp cold water",
+    "1 tsp toasted sesame oil",
+    "24 round dumpling or gyoza wrappers, thawed if frozen",
+    "Black or rice vinegar, for dipping",
+    "For each batch of 12",
+    "1 tbsp neutral oil, plus 1 tsp",
+    "1 tbsp all-purpose (plain) flour whisked into 125 ml water (½ US cup)"
+   ],
+   "steps": [
+    "Toss the cabbage with ½ tsp salt, leave 10 minutes and squeeze dry. Stir the pork with the ginger, soy sauce, pepper and remaining salt in one direction until sticky. Beat in the water, then the cabbage and sesame oil.",
+    "Put a generous tablespoon of filling on each wrapper, wet the edge and fold in half. Make 4 or 5 pleats along the front edge, pressing each against the back, so the potsticker sits up on a flat base.",
+    "Heat 1 tbsp oil in the frying pan over medium heat. Arrange 12 potstickers in a tight circle, flat side down, and fry 2 minutes, until the bottoms are lightly golden.",
+    "Stir the flour water and pour it in; it will spit. Cover and cook 7 to 8 minutes over medium heat, until most of the water has gone and the filling is cooked through (71 °C / 160 °F).",
+    "Uncover, drizzle 1 tsp oil around the edge and cook 3 to 4 minutes more, until the skirt is crisp and golden and the potstickers slide when you shake the pan.",
+    "Turn off the heat, set a plate over the pan and turn it over in one quick move, skirt side up. Slide it back into the warm pan to serve with vinegar. Cook the second batch the same way, or freeze it uncooked."
+   ],
+   "tip": "A non-stick pan is the safest choice the first time. In cast iron, make sure the pan is well seasoned and properly hot before the potstickers go in.",
+   "serves": "Makes 24 potstickers",
+   "total": "1 hr 5 min",
+   "image": "https://raw.githubusercontent.com/meridian483/Misc./main/mei-media/mei-20261010-b/photos/p1-flip.jpg"
+  },
+  {
+   "id": "K015",
+   "title": "Spinach, ginger and egg congee",
+   "book": "Grandma Mei's Kitchen",
+   "date": "2026-10-10",
+   "story": "In my family, congee was what you made for someone who needed looking after: a child home from school, a tired grandmother, anyone who wanted something warm and plain. Rice simmers slowly until it turns silky. It asks for patience and almost nothing else.",
+   "ingredients": [
+    "90 g white rice (½ US cup)",
+    "900 ml water (3¾ US cups), plus extra hot water as needed",
+    "5 g fresh ginger, peeled and cut into fine slivers",
+    "60 g spinach, washed and chopped",
+    "2 large eggs, beaten",
+    "½ tsp salt, or to taste",
+    "A pinch of ground white pepper, optional",
+    "½ tsp toasted sesame oil",
+    "1 scallion, green part only, finely sliced"
+   ],
+   "steps": [
+    "Rinse the rice twice in cold water and drain. Put it in the saucepan with the water and half the ginger and bring to a boil.",
+    "Turn the heat to low, set the lid ajar and simmer 35 to 45 minutes, stirring every 10 minutes, until thick and creamy. Add hot water if it gets too thick.",
+    "Stir in the spinach, the remaining ginger and the salt. Simmer for 2 minutes.",
+    "Pour in the egg in a thin stream while stirring slowly, so it sets into soft ribbons. Simmer 1 to 2 minutes until fully cooked.",
+    "Ladle into bowls. Finish with sesame oil, scallion greens and a little white pepper if you like."
+   ],
+   "tip": "Congee thickens as it stands. If you reheat a portion, add a few spoonfuls of water and stir well; it will loosen again in a minute.",
+   "serves": null,
+   "total": "50 min",
+   "image": "https://raw.githubusercontent.com/meridian483/Misc./main/mei-media/mei-20261010-b/photos/p2-congee.jpg"
+  },
+  {
+   "id": "S025",
+   "title": "Mango pudding",
+   "book": "Grandma Mei's Sweets",
+   "date": "2026-10-10",
+   "story": "Hong Kong dim sum restaurants serve mango pudding in little fish-shaped molds, with evaporated milk poured over at the table. I set mine in glasses, which is easier, and nobody fights over the tail. Use the ripest, most fragrant mangoes you can find; they do all the work.",
+   "ingredients": [
+    "10 g powdered gelatin (1 tbsp), or 5 sheets leaf gelatin 3 tbsp cold water",
+    "120 ml hot water (½ US cup)",
+    "40 to 60 g sugar (3 to 5 tbsp), to taste",
+    "500 g ripe mango flesh (from about 2 large mangoes)",
+    "120 ml evaporated milk (½ US cup), plus 4 tbsp to finish"
+   ],
+   "steps": [
+    "Sprinkle the gelatin over the cold water in the small bowl and leave 5 minutes to soften. If using leaf gelatin, soak it in cold water instead and squeeze it out.",
+    "Stir the softened gelatin and the sugar into the hot water until completely dissolved.",
+    "Cut 100 g of the mango into small cubes, cover and refrigerate. Blend the rest until very smooth.",
+    "Stir the gelatin mixture into the mango puree, then stir in the evaporated milk. Pour into the glasses and refrigerate for at least 4 hours, until softly set.",
+    "Top each pudding with the mango cubes and a spoonful of evaporated milk just before serving."
+   ],
+   "tip": "Out of season, use thawed frozen mango or canned mango pulp from Asian grocers. Canned pulp is often sweetened, so start with the smaller amount of sugar and taste.",
+   "serves": "Serves 4",
+   "total": "4 hr 20 min",
+   "image": "https://raw.githubusercontent.com/meridian483/Misc./main/mei-media/mei-20261010-b/photos/p3-mango-pudding.jpg"
+  }
+ ]
+}
